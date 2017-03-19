@@ -1,0 +1,2 @@
+﻿https://app.pluralsight.com/player?course=aspdotnetcore-web-application-building&author=gill-cleeren&name=aspdotnetcore-web-application-building-m3&clip=4&mode=live
+Building your first Asp.net core web application -> Creating the overview Page -> Creating the View
